@@ -15,3 +15,4 @@ D:\AddressBook1\AddressBook\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLa
 D:\AddressBook1\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
 D:\AddressBook1\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
 D:\AddressBook1\AddressBook\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\AddressBook1\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json

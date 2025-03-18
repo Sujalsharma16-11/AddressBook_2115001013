@@ -12,13 +12,13 @@ namespace RepositoryLayer.Context
     public class AppDbContext : DbContext
     {
         public DbSet<UserEntity> Users { get; set; }
-        public DbSet<AddressBookEntry> AddressBookEntries { get; set; }
+        public DbSet<AddressBookEntity> AddressBookEntries { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<AddressBookEntry>()
+            modelBuilder.Entity<AddressBookEntity>()
                 .HasOne(ab => ab.User)
                 .WithMany(u => u.AddressBookEntries)
                 .HasForeignKey(ab => ab.UserId);

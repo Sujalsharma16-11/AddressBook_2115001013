@@ -52,3 +52,12 @@ D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\refint\AddressBook.dll
 D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.pdb
 D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.genruntimeconfig.cache
 D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\ref\AddressBook.dll
+D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.sourcelink.json
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\NLog.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AddressBook1\AddressBook\AddressBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AddressBook1\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.MvcApplicationPartsAssemblyInfo.cs

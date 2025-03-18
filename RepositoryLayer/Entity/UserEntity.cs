@@ -23,7 +23,7 @@ namespace RepositoryLayer.Entity
         [Required]
         public string? PasswordHash { get; set; }
 
-        public virtual ICollection<AddressBookEntry> AddressBookEntries { get; set; } = new List<AddressBookEntry>();
+        public virtual ICollection<AddressBookEntity> AddressBookEntries { get; set; } = new List<AddressBookEntity>();
 
     }
 }
